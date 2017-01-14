@@ -1,0 +1,20 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/Assis7/rita-ana-guimaraes",
+  "authors": [
+    "Assis7 <assis1020@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

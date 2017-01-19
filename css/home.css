@@ -1,0 +1,1 @@
+header{background-image:url("../images/fundo-inicial.jpg")}header:before,header:after{content:" ";display:table}header:after{clear:both}header .logo{float:left}header .logo img{width:83px;height:48px}header nav{float:right}header nav ul li{display:inline-block;margin:0 25px 0 0}header nav ul li a{color:#fff;text-transform:uppercase}header h1,header p{color:#fff}
